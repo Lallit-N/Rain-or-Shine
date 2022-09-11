@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "weatherapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\Lallit\\Documents\\School\\UBC\\Co-op\\Placements\\BioDF S22\\Demo_App_Repo\\Lallit\\amplify\\backend\\api\\weatherapp\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    },
+    "additionalAuthTypes": [
+      {
+        "mode": "AMAZON_COGNITO_USER_POOLS",
+        "cognitoUserPoolId": "authweatherapp25c88bf3"
+      }
+    ]
+  }
+}

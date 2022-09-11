@@ -1,0 +1,31 @@
+{
+    "locations": [
+        {
+            "id": 313304,
+            "name": "Burnaby",
+            "region": "British Columbia",
+            "country": "Canada",
+            "lat": 49.25,
+            "lon": -122.95,
+            "url": "burnaby-british-columbia-canada"
+        },
+        {
+            "id": 3247379,
+            "name": "Mexico City",
+            "region": "The Federal District",
+            "country": "Mexico",
+            "lat": 19.43,
+            "lon": -99.13,
+            "url": "mexico-city-the-federal-district-mexico"
+        },
+        {
+            "id": 568120,
+            "name": "Berlin",
+            "region": "Berlin",
+            "country": "Germany",
+            "lat": 52.52,
+            "lon": 13.4,
+            "url": "berlin-berlin-germany"
+        }
+    ]
+}
